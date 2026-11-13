@@ -1,4 +1,4 @@
-Perfil Personal
+## Soy estudiante de computacion y robotica en el instituto IES Jose de Mora
 
 <!--
 **chercan0105/chercan0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
